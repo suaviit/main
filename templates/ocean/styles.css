@@ -16,6 +16,10 @@
     --black: #fff;
     --white: #333;
 }
+body
+{
+    height: 100vh;
+}
 header
 {
     position: absolute;
